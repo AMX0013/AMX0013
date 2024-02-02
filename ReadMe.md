@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Experienced with developing backend systems following Microservice Frameworks, and Event Driven Architecture<br>👯 I’m a proficient communicator and problem solver fluent in Python, Java, GO and SQL<br>🤝 I’m looking for opportunities as a software developer in the backend space<br>🌱 I’m currently learning Cpp, with focus on low latency and compile-time speeds to crack into HFTs. RUST's in there too! <br>💬 Ask me about how Reinforcement Learning is analogous to Self improvement<br>⚡ Fun fact: I can probably whoop your ass in ALL PVP shooters 
+🔭 I’m Experienced with developing backend systems following Microservice Frameworks, and Event Driven Architecture.<br>👯 I’m a proficient communicator and problem solver fluent in Python, Java, GO and SQL.<br>🤝 I’m looking for opportunities as a software developer in the backend space.<br>🌱 I’m currently learning Cpp, with focus on low latency and compile-time speeds to crack into HFTs. RUST's in there too! <br>💬 Ask me about how Reinforcement Learning is analogous to Self improvement.<br>⚡ Fun fact: I can probably whoop your ass in ALL PVP shooters. 
 
 
 ## 🌐 Socials:
