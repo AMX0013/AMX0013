@@ -17,10 +17,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AMX0013&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMX0013&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AMX0013&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
 <!-- 
 ### ✍️ Random Dev Quote
